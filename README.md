@@ -2,4 +2,5 @@
 Semestr 3 - Algorytmy geometryczne
 
 lab1 - testowanie wyznaczników,
-lab2 - algorytmy grahama i jarvisa znajdowania otoczki wypukłej;
+lab2 - algorytmy Grahama i Jarvisa znajdowania otoczki wypukłej,
+lab3 - algorytm zamiatania do znajdowania przecięć odcinków;
