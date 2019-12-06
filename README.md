@@ -7,7 +7,8 @@ lab3 - algorytm zamiatania do znajdowania przecięć odcinków,<br>
 lab4 - triangulacja wielokątów monotonicznych;<br>
 
 ### Projekt
-Dokładny opis znajduje się w <em>dokumentacja.pdf</em> w folderze <em>projekt</em><br>
+Dokładny opis znajduje się w <em>dokumentacja.pdf</em> w folderze <em>projekt</em>
+
 Problem: Mając daną chmurę punktów na płaszczyźnie dwuwymiarowej, wyznaczyć:
  - minimalny okrąg zawierający tę chmurę,
  - prostokąt o minimalnym polu zawierający tę chumrę,
