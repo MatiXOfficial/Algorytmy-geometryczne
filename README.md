@@ -1,5 +1,5 @@
 # Algorytmy-geometryczne
-Term 3 - Geometric Algorithms
+Semester 3 - Geometric Algorithms course at AGH UST
 
 lab1 - testing determinant calculation methods,<br>
 lab2 - Graham's algorithm and gift wrapping algorithm for finding convex hull,<br>
